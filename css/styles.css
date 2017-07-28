@@ -1,4 +1,12 @@
+/*  William Faulkner quotes
+"Don't be 'a writer.' Be writing."
+― William Faulkner
+“Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it.
+Then write. If it's good, you'll find out. If it's not, throw it out of the window.”
+― William Faulkner
+http://imgur.com/ZRem4Lo
 
+*/
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -138,6 +146,14 @@ a:visited {
 
 #aly-alidina-card {
     background-image: url("http://imgur.com/zLQFVKP.jpg");
+}
+
+#aaron-samuel-cover {
+    background-image: url("http://i.imgur.com/WzBp2Ex.jpg");
+}
+
+#aaron-samuel-card {
+    background-image: url("http://i.imgur.com/tqQ8tQF.jpg");
 }
 
 
@@ -486,7 +502,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5032,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
